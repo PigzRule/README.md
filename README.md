@@ -82,11 +82,11 @@ Includes write-ups, notes, and solutions for events/labs covering:
   </a>
 
   <a href="https://blueteamlabs.online/">
-    <img height="28" alt="BTLO" src="./assets/badges/btlo.svg">
+    <img height="28" alt="BTLO" src="./assets/btlo.svg">
   </a>
 
   <a href="https://YOUR_INFINITY_LEARNING_LINK_HERE">
-    <img height="28" alt="Infinity Learning" src="./assets/badges/infinity-learning.svg">
+    <img height="28" alt="Infinity Learning" src="./assets/infinity-learning.svg">
   </a>
 </p>
 
