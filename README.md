@@ -31,12 +31,6 @@ Includes write-ups, notes, and solutions for events/labs covering:
 - Threat detection & analysis  
 - Red + Blue team tasks  
 
-<p align="left">
-  <a href="https://github.com/PigzRule/writeups">
-    <img alt="Open Writeups" src="https://img.shields.io/badge/&logo=github&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Skills I'm Building
