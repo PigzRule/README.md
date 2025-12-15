@@ -13,8 +13,7 @@
 
 - 🛡️ Learning Cybersecurity & SOC Fundamentals  
 - 📊 Practicing Log Analysis, Event IDs, Detection & Investigation  
-- 🐧 Experienced with Linux, Windows, and OS-level security basics  
-- 🧠 Building my **SOC-AI Journey** (AI-assisted SOC analysis every day)  
+- 🐧 BS in Cybersecurity from Stetson University (May 2025)  
 - 🎯 Goals: **CompTIA Security+**, **ISC2 CC**, **HTB CJCA**  
 
 ---
