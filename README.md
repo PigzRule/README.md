@@ -45,11 +45,16 @@ Includes write-ups, notes, and solutions for events/labs covering:
 - Incident Documentation  
 
 ### ⚙️ Tools
-- Linux, Windows  
-- Nmap, Wireshark  
-- Event Viewer  
-- Labs (Hack the Box, TryHackMe, etc.)
-- KQL
+- Security Tools: Microsoft Defender Endpoint/Cloud/XDR, Security Copilot, Sentinel, Entra, Purview, Splunk, Palo Alto SASE, S1, Varonis,
+Proofpoint, Nessus, Wireshark, Burp Suite, Metasploit, Kali, Binary Ninja, Autopsy, ImHex, CyberChef, FTK Imager, Volatility
+- AI & Machine Learning Tools: Hugging Face Transformers, PyTorch, LangChain, model fine-tuning, prompt engineering, RAG pipelines,
+GPU-accelerated local inference
+- Cloud & DevOps: AWS (EC2, RDS), VMware, DigitalOcean, Docker, Kubernetes, Jenkins, Ansible
+- Programming & Scripting: Python, Bash, PowerShell, Java, C/C++, C#, JavaScript, SQL, PHP, Go, KQL, HTML/CSS
+- Security Frameworks & Governance: OWASP Top 10, NIST CSF/RMF, ISO/IEC 27001, FedRAMP
+- Networking: TCP/UDP, HTTP/HTTPS, IP, DHCP, ICMP, FTP/SFTP, SSL/TLS, IMAP
+- Operating Systems: Linux, Windows, macOS, Unix, Raspberry Pi
+- Tools & Platforms: Git, GitHub, Jira, ServiceNow, Jupyter, VS Code, MAMP, Eclipse
 
 ---
 
