@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" viewBox="0 0 120 28" role="img" aria-label="BTLO">
+  <rect width="120" height="28" rx="6" fill="#0B1220"></rect>
+  <!-- simple shield icon -->
+  <path d="M18 7l7 3v6c0 5-4.2 7.8-7 9-2.8-1.2-7-4-7-9V10l7-3z" fill="#4CC9F0"></path>
+  <path d="M18 10.3l4 1.7v4.1c0 3.1-2.4 5-4 5.8-1.6-.8-4-2.7-4-5.8V12l4-1.7z" fill="#0B1220" opacity="0.35"></path>
+  <text x="34" y="19" fill="#FFFFFF" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="0.8">BTLO</text>
+</svg>
