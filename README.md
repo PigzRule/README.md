@@ -22,7 +22,7 @@
 ## 🔥 Active Cybersecurity Projects
 
 ### 🧠 1) Writeup Repository (Main Portfolio)
-📁 **Repo:** https://github.com/pigzrule/writeups
+📁 **Repo:** https://github.com/PigzRule/writeups
 
 Includes write-ups, notes, and solutions for events/labs covering:
 - SOC investigations  
@@ -33,7 +33,7 @@ Includes write-ups, notes, and solutions for events/labs covering:
 - Red + Blue team tasks  
 
 <p align="left">
-  <a href="https://github.com/pigzrule/writeups">
+  <a href="https://github.com/PigzRule/writeups">
     <img alt="Open Writeups" src="https://img.shields.io/badge/Open-Writeups-2ea44f?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -74,27 +74,22 @@ Includes write-ups, notes, and solutions for events/labs covering:
 ---
 <p align="left">
   <!-- TryHackMe -->
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+  <a href="https://tryhackme.com/p/wilywoonka">
     <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
 
   <!-- Hack The Box -->
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID_OR_USERNAME">
+  <a href="https://app.hackthebox.com/profile/wilywoonka">
     <img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
   </a>
 
   <!-- Optional: CyberDefenders -->
-  <a href="https://cyberdefenders.org/p/YOUR_USERNAME">
+  <a href="https://cyberdefenders.org/p/wilywoonka">
     <img alt="CyberDefenders" src="https://img.shields.io/badge/CyberDefenders-Profile-0B1020?style=for-the-badge&logo=securityscorecard&logoColor=white">
   </a>
 
-  <!-- Optional: LetsDefend -->
-  <a href="https://app.letsdefend.io/profile/YOUR_USERNAME">
-    <img alt="LetsDefend" src="https://img.shields.io/badge/LetsDefend-Profile-1F6FEB?style=for-the-badge&logo=probot&logoColor=white">
-  </a>
-
   <!-- Optional: Blue Team Labs Online -->
-  <a href="https://blueteamlabs.online/public/YOUR_USERNAME">
+  <a href="https://blueteamlabs.online/public/wilywoonka">
     <img alt="Blue Team Labs Online" src="https://img.shields.io/badge/Blue%20Team%20Labs-Profile-111111?style=for-the-badge&logo=hackaday&logoColor=white">
   </a>
 </p>
@@ -105,7 +100,7 @@ Includes write-ups, notes, and solutions for events/labs covering:
   <a href="https://www.linkedin.com/in/wilywoonka/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/pigzrule">
+  <a href="https://github.com/PigzRule">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-See%20Projects-111111?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
