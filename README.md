@@ -17,22 +17,6 @@
 - 🎯 Goals: **CompTIA Security+**, **ISC2 CC**, **HTB CJCA**  
 
 ---
-
-## 🔥 Active Cybersecurity Projects
-
-### 🧠 1) Writeup Repository (Main Portfolio)
-📁 **Repo:** https://github.com/PigzRule/writeups
-
-Includes write-ups, notes, and solutions for events/labs covering:
-- SOC investigations  
-- OSINT  
-- Forensics  
-- Web exploitation  
-- Threat detection & analysis  
-- Red + Blue team tasks  
-
----
-
 ## 🛠️ Skills I'm Building
 
 ### 🛡️ Cybersecurity / SOC
